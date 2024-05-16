@@ -17,7 +17,7 @@ A técnologia sempre foi meu Hobby, inicialmente na minha infância, onde a curi
 
 
 ## Github Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHFSS&theme=cobalt) ![Pedro Henrique GutHub stats](https://github-readme-stats.vercel.app/api?username=PedroHFSS&theme=cobalt) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHFSS&theme=cobalt&hide_title=true&hide=stars) ![Pedro Henrique GutHub stats](https://github-readme-stats.vercel.app/api?username=PedroHFSS&theme=cobalt&hide_title=true&hide=stars) 
 
 
 
