@@ -2,7 +2,7 @@
  
 Olá! Meu nome é Pedro Henrique, tenho 21 anos. Sou estudante de graduação em Ciências da Computação e procuro sempre desenvolver minhas habilidas e ampliar meus conhecimentos, gosto de me desafiar e realizar meu melhor.
 
-A técnologia sempre foi meu Hobby, inicialmente na minha infância, onde a curiosidade de compreender a mecânica por trás dos jogos me levou ao vasto mundo dos códigos e da programação.
+A técnologia sempre foi meu Hobby, inicialmente na minha infância, onde a curiosidade de compreender as mecânicas por trás dos jogos me levou ao vasto mundo dos códigos e da programação.
 
 
 ## Github Stats
