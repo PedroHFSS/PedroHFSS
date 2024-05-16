@@ -1,8 +1,17 @@
-## 👨‍💻☕Pedro Henrique Fernandes Silva dos Santos !! 
- 
-Olá! Meu nome é Pedro Henrique, tenho 21 anos. Sou estudante de graduação em Ciências da Computação e procuro sempre desenvolver minhas habilidas e ampliar meus conhecimentos, gosto de me desafiar e realizar meu melhor.
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="300" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
-A técnologia sempre foi meu Hobby, inicialmente na minha infância, onde a curiosidade de compreender as mecânicas por trás dos jogos me levou ao vasto mundo dos códigos e da programação.
+<h1>
+    <span> 👨‍💻☕Pedro Henrique Fernandes Silva dos Santos !!  </span>
+</h1>
+
+<p align="justify"> Olá! Meu nome é Pedro Henrique, tenho 21 anos. Sou estudante de graduação em Ciências da Computação e procuro sempre desenvolver minhas habilidas
+ e ampliar meus conhecimentos, gosto de me desafiar e realizar meu melhor.
+
+A técnologia sempre foi meu Hobby, inicialmente na minha infância, onde a curiosidade de compreender as mecânicas por trás dos jogos me levou ao vasto mundo dos códigos e da programação.</p>
+
+
+
+
 
 
 ## Github Stats
