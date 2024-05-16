@@ -1,8 +1,6 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="300" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
-<h1>
-    <span> 👨‍💻☕Pedro Henrique Fernandes Silva dos Santos !!  </span>
-</h1>
+## 👨‍💻☕Pedro Henrique Fernandes Silva dos Santos !!
 
 <p align="justify"> Olá! Meu nome é Pedro Henrique, tenho 21 anos. Sou estudante de graduação em Ciências da Computação e procuro sempre desenvolver minhas habilidas
  e ampliar meus conhecimentos, gosto de me desafiar e realizar meu melhor.
